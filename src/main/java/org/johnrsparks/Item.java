@@ -5,7 +5,7 @@ public class Item {
 
     private double cost;
 
-    private int units:
+    private int units;
 
     public String getName() {
         return name;
